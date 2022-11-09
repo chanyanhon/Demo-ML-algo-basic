@@ -14,7 +14,7 @@ Using Boston-Housing dataset, to demostrate feature engineering for regression a
 Using Telco_customer_churn dataset, to demostrate feature engineering & selection for classification analysis and modelling, e.g. One-hot encoding, correlation analysis for feature selection, scaling, upsampling (SMOTE), model comparison, features importance & interpretation.
 
 
-## 4. Classification_telco_customer_churn
+## 4. DeepLearning_telco_customer_churn
 Using Telco_customer_churn dataset, on top of __Classification_telco_customer_churn__ project, to demostrate other classification modelling by random-forest and neural network models with tuning, e.g. epochs, no. of layer, activation, by evaluation metrics such as AUC. & finally interpret room for improvement by comparing to baseline model.
 
 

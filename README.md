@@ -20,3 +20,6 @@ Using Telco_customer_churn dataset, on top of __Classification_telco_customer_ch
 
 ## 5. Algo_trading
 Simple Algo-trading script with implementing multiple rule-based strategy (MACD, RSI, BOLL) with backtesting. 
+
+## 6. Time_series_analysis_ARIMA_gold_price_10years
+Using gold price from 2000 to 2011, to demostrate pre-processing & time series modelling by ARIMA models, e.g. feature engineering (e.g. rolling mean,std), seasonal decomposition, stationarity testing and correcting (differencing, tuning by US cpi figures) with seasonal effects. 

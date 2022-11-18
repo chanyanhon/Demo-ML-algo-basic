@@ -1,4 +1,4 @@
-# interview_repository 
+# portfolio_repository
 This is the repository to showcase my work & highlight my skills. You can directly read the Jupyter notebook here for the analysis steps.
 
 # Folder:

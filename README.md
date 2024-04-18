@@ -1,4 +1,4 @@
-# portfolio_repository
+# Objective of Demo-ML-algo-basic
 This is the repository to showcase my work & highlight my basic skills with popular ML-algo. You can directly read the Jupyter notebook here for the analysis steps.
 
 # Folder:
